@@ -1,0 +1,5 @@
+{
+  "name": "Satisfaction Survey App",
+  "description": "A modern and interactive five-level satisfaction survey application with an admin panel to manage questions and a dashboard to view results statistics.",
+  "requestFramePermissions": []
+}
